@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on an emission analysis tools for business transport.
-- 🌱 I’m currently learning about how best to manage GitHub accounts!
+- 🔭 I’m currently working on data pipelines and visualisation approaches for utilities management.
+- 🌱 I’m currently learning about integrating Git processes for non-technical collaboration!
 - 👯 I’m looking to collaborate on improving data access, management and application in the UK National Health Service (NHS).
 - 📫 How to reach me: You can contact me on dan.wright2@nhs.net
